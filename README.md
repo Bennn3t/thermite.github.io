@@ -1,1 +1,1 @@
-# thermite.github.io
+# BJCore thermite minigame
